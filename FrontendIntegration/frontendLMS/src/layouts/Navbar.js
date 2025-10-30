@@ -151,7 +151,7 @@ export default function StopWhenIdleFollower() {
       ></div>
       <div
         ref={wrapRef}
-        className="fixed left-0 top-[5%] w-[20%] h-[80%] bg-blue-400 rounded-md flex justify-center items-center"
+        className="fixed left-0 top-[10%] w-[20%] h-[80%] bg-blue-400 rounded-md flex justify-center items-center"
       >
         <div
           ref={childRef}
